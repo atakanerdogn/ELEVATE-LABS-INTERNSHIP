@@ -5,3 +5,8 @@ DAY 1:
 - Null and duplicate values were searched
 - Column names modified for better understanding the data
 - Data visualization was performed to find the interrelating factors, different plots and correlation matrices were shown.
+
+DAY 2:
+- Data visualization and analysis using Tableau
+- Superstore Dataset
+- 
